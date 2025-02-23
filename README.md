@@ -1,6 +1,6 @@
  ## List of practices ## 
 [1. The first training session: ](https://github.com/lumfa/first-mobile-design-dev-rtu-mirea)  
-[2. The second training session: ](https://github.com/lumfa/secon-mobile-design-dev-rtu-mirea)  
+[2. The second training session: ](https://github.com/lumfa/second-mobile-design-dev-rtu-mirea)  
 [3. The third training session: ](https://github.com/lumfa/third-mobile-design-dev-rtu-mirea)  
 [4. The fourth training session: ](https://github.com/lumfa/fourth-mobile-design-dev-rtu-mirea)  
 [5. The fifth training session: ](https://github.com/lumfa/fifth-mobile-design-dev-rtu-mirea)  
