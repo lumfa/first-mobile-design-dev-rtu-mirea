@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tsibizov_MA</string>
+    <string name="btn_text">yep</string>
+    <string name="text_question">A cute cat?</string>
+    <string name="image_description">Cat</string>
+    <string name="edit_text_hint">Comment about the cat?</string>
 </resources>
